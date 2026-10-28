@@ -1,0 +1,5 @@
+
+disaster_id,location,disaster_type,severity,affected_people,latitude,longitude,status
+D001,Chennai,Flood,High,1200,13.0827,80.2707,Active
+D002,Coimbatore,Storm,Medium,350,11.0168,76.9558,Active
+D003,Madurai,Flood,Low,100,9.9252,78.1198,Monitoring

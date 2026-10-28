@@ -1,0 +1,49 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test and coverage reports
+.coverage
+htmlcov/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated cache files
+cache/
